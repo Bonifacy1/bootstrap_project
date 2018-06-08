@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px; }
+
+.navbar {
+  padding: 0; }
+
+.nav.navbar-nav .nav-link {
+  padding: 0.85rem 1rem; }
+
+.nav.navbar-nav .active .nav-link {
+  color: #555555;
+  background: #e7e7e7; }
