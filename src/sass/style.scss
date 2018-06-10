@@ -23,3 +23,26 @@ body {
         }
     }
 }
+
+.navbar-brand {
+    padding: .65rem;
+}
+
+.em-text {
+    color: $dark-cyan !important;
+}
+
+.col-lg-4 {
+    margin-bottom: 20px;
+}
+
+section {
+    padding: 40px 0 40px 0;
+}
+
+.jumbotron {
+    background: $dark-blue url(../img/site_showcase_bg.jpg) no-repeat top center;
+    color: white;
+    height: 500px;
+    overflow: hidden;
+}

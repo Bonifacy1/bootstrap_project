@@ -10,3 +10,21 @@ body {
 .nav.navbar-nav .active .nav-link {
   color: #555555;
   background: #e7e7e7; }
+
+.navbar-brand {
+  padding: .65rem; }
+
+.em-text {
+  color: #1caa98 !important; }
+
+.col-lg-4 {
+  margin-bottom: 20px; }
+
+section {
+  padding: 40px 0 40px 0; }
+
+.jumbotron {
+  background: #1b2228 url(../img/site_showcase_bg.jpg) no-repeat top center;
+  color: white;
+  height: 500px;
+  overflow: hidden; }
