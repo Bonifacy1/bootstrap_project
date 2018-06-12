@@ -79,5 +79,13 @@ section#feature{
         padding: 0;
         margin: 0;
     }
+
 }
 
+section#title-bar{
+    padding: 0;
+    margin: 0;
+    height: 80px;
+    background: $dark-cyan;
+    color: white;
+}
