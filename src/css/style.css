@@ -28,3 +28,29 @@ section {
   color: white;
   height: 500px;
   overflow: hidden; }
+
+.jumbotron h1 {
+  margin-top: 60px; }
+
+.jumbotron p {
+  margin-bottom: 40px; }
+
+.jumbotron img.app-btn {
+  width: 40%;
+  margin-right: 30px; }
+
+.jumbotron img.showcase-img {
+  width: 75%; }
+
+section#feature {
+  background: #1caa98;
+  color: white;
+  padding: 40px;
+  overflow: auto; }
+  section#feature ul li {
+    font-size: 22px;
+    list-style: none;
+    line-height: 2rem; }
+  section#feature ul {
+    padding: 0;
+    margin: 0; }
