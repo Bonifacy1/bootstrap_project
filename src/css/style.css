@@ -57,8 +57,22 @@ section#title-bar {
   height: 80px;
   background: #1caa98;
   color: white; }
+  section#title-bar h1 {
+    margin: 1rem 0; }
 
 footer {
   background: #333333;
   color: white;
   padding: 30px 0 20px 0; }
+  footer li {
+    padding: 0 10px 0 10px;
+    list-style: none;
+    float: left; }
+  footer a {
+    color: white; }
+  footer p {
+    float: right; }
+
+img.demo {
+  width: 100%;
+  padding: 3px; }

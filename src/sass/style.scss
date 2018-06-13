@@ -86,10 +86,30 @@ section#title-bar{
     height: 80px;
     background: $dark-cyan;
     color: white;
+    h1{
+        margin: 1rem 0;
+    }
 }
 
 footer{
     background: lighten($color: #000000, $amount: 20%);
     color: white;
     padding: 30px 0 20px 0;
+    li{
+        padding: 0 10px 0 10px;
+        list-style: none;
+        float: left;
+    }
+    a{
+        color: white;
+    }
+    p{
+        float: right;
+    }
+}
+
+img.demo{
+    width:100%;
+    padding: 3px;
+
 }
